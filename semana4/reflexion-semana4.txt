@@ -1,0 +1,7 @@
+El uso de tecnologías abiertas como Node.js permite que las comunidades puedan crear sus propias soluciones tecnológicas sin depender de sistemas cerrados o costosos.
+Esto facilita la innovación local y la adaptación de herramientas a necesidades específicas.
+Además, fomenta el aprendizaje colaborativo y el desarrollo de habilidades en programación. 
+También ayuda a reducir la brecha digital al permitir acceso libre a herramientas modernas. 
+Las iniciativas ciudadanas pueden construir plataformas propias para comunicación, educación o servicios. 
+Esto fortalece la autonomía tecnológica de las comunidades. Node.js, al ser flexible y escalable, permite desarrollar proyectos pequeños o grandes con facilidad. 
+En general, promueve la creación de soluciones útiles, accesibles y sostenibles para la sociedad.
