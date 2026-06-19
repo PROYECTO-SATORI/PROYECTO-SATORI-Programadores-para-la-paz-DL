@@ -1,0 +1,8 @@
+El uso de Git es fundamental en el desarrollo de software porque permite llevar un control ordenado de todos los cambios realizados en un proyecto. 
+Gracias a esto, es posible saber qué se modificó, cuándo y por qué. 
+Esto facilita el trabajo en equipo porque varios desarrolladores pueden colaborar sin perder información. 
+Además, si ocurre un error, se puede regresar a versiones anteriores del proyecto. 
+Git también mejora la organización del trabajo y evita la pérdida de información importante. 
+El registro de cambios crea trazabilidad, lo cual es clave en proyectos profesionales. 
+Esto permite entender la evolución del software a lo largo del tiempo. 
+Por estas razones, Git es una herramienta esencial para cualquier desarrollador.
