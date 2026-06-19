@@ -1,0 +1,11 @@
+Ruta /:
+
+Al ingresar a la dirección http://localhost:3000, el servidor responde con el mensaje "Servidor activo", indicando que el servidor está funcionando correctamente.
+
+Ruta /saludo:
+
+Al ingresar a la dirección http://localhost:3000/saludo, el servidor responde con el mensaje "Hola comunidad".
+
+Ruta /mensaje/juan:
+
+Al ingresar a la dirección http://localhost:3000/mensaje/juan, el servidor toma el nombre enviado en la URL y responde con el mensaje "Hola juan". Si se cambia el nombre en la ruta, la respuesta también cambia según el nombre proporcionado.
