@@ -1,4 +1,4 @@
 {
-  "tipo": "Infraestructura vial",
-  "descripcion": "Se reporta un hueco de gran tamaño en la calle principal que dificulta el tránsito de vehículos y motocicletas."
+  "tipo": "Basuras en la vía pública",
+  "descripcion": "En la calle principal hay acumulación de basura desde hace varios días."
 }
