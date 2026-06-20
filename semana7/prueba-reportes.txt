@@ -1,3 +1,9 @@
+Cuando se envía un reporte usando POST a /reportes, el servidor lo guarda en un array llamado reportes.
+
+Luego, cuando se hace una petición GET a /reportes, el servidor devuelve todos los reportes almacenados en memoria.
+
+Ejemplo de salida:
+
 [
   {
     "id": 1,
@@ -5,3 +11,5 @@
     "descripcion": "Daño en alumbrado público"
   }
 ]
+
+Esto ocurre porque los datos se guardan temporalmente en el servidor mientras está en ejecución.
