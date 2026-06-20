@@ -1,0 +1,8 @@
+Las plataformas que permiten registrar y consultar reportes ayudan a mejorar la organización de la información en una comunidad.
+Esto facilita la identificación de problemas como daños en infraestructura o situaciones ambientales.
+Cuando los datos se almacenan en una estructura como un array, se pueden gestionar de forma sencilla.
+Además, el uso de APIs permite que diferentes usuarios interactúen con el sistema de manera ordenada.
+Esto mejora la comunicación entre la comunidad y los encargados de resolver los problemas.
+También permite consultar información en tiempo real mientras el sistema está activo.
+Este tipo de herramientas contribuye a la transparencia y eficiencia en la gestión comunitaria.
+En general, facilita la toma de decisiones basada en datos reales.
