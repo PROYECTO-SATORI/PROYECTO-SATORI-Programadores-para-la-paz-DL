@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes de forma estructurada porque esto permite organizar mejor la información enviada por los ciudadanos.
+Cuando los datos tienen un formato definido, es más fácil almacenarlos, analizarlos y darles seguimiento. 
+Además, se reducen errores y confusiones en la comunicación. 
+Los reportes estructurados ayudan a identificar problemas recurrentes y establecer prioridades de atención. 
+También facilitan la transparencia en la gestión de incidencias. 
+Gracias a estas herramientas, las comunidades pueden participar activamente en la solución de problemas. 
+Esto mejora la comunicación entre ciudadanos y organizaciones, permitiendo respuestas más rápidas y eficientes ante las necesidades de la comunidad.

@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura vial",
+  "descripcion": "Se reporta un hueco de gran tamaño en la calle principal que dificulta el tránsito de vehículos y motocicletas."
+}
