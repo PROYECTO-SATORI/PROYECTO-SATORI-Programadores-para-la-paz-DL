@@ -1,0 +1,5 @@
+Usar contraseñas fuertes y únicas para cada usuario.
+No compartir credenciales de acceso con otras personas.
+Utilizar conexiones seguras como HTTPS.
+Limitar el acceso a información sensible según roles de usuario.
+Registrar y monitorear accesos al sistema para detectar actividades sospechosas.
