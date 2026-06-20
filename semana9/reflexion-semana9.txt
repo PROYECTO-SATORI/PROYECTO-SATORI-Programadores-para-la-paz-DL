@@ -1,0 +1,8 @@
+La estabilidad de un servidor es fundamental para que una plataforma tecnológica funcione correctamente.
+Si el servidor falla, los usuarios no pueden acceder a los servicios.
+Por eso es importante que el sistema esté siempre escuchando en un puerto activo.
+Los logs permiten identificar errores y mejorar el rendimiento del sistema.
+Además, Node.js facilita la creación de servidores eficientes y rápidos.
+Una buena administración del servidor mejora la experiencia del usuario.
+También ayuda a mantener la seguridad y el control del sistema.
+En general, un servidor estable es la base de cualquier aplicación web moderna.
